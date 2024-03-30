@@ -1,6 +1,6 @@
 {
-  "name": "atm_machine",
-  "version": "1.0.0",
+  "name": "faraz_khan_2062_atm_machine",
+  "version": "1.0.1",
   "description": "A ATM Machine",
   "main": "index.js",
   "type": "module",

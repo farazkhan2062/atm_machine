@@ -1,5 +1,6 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
-let myBalance = 3000;
+let myBalance = 10000;
 let myPin = 1234;
 let myPinAns = await inquirer.prompt([
     {
